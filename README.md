@@ -10,8 +10,8 @@
 <h2>📺Certifications & Certificates  </h2>
 
 - [Comptia A+](https://www.credly.com/badges/a8220ec5-a801-45d8-afaf-478e6ec609ed/linked_in_profile)
-- [Comptia Security+][((https://www.credly.com/badges/37be845e-8826-4faa-9644-608c81e5dc94/linked_in_profile)]
-- [Google IT Support Professional)](https://www.coursera.org/account/accomplishments/professional-cert/PB2AN5VKQXR5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
+- [Comptia Security+](https://www.credly.com/badges/37be845e-8826-4faa-9644-608c81e5dc94/linked_in_profile)
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/PB2AN5VKQXR5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 
 
 <h2> 🤳 Connect with me:</h2>
