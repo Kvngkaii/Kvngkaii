@@ -1,4 +1,4 @@
-<h1>Hi, I'm T'Kai! <br/><a href="https://github.com/joshmadakor1">IT Manager</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">Problem Solver</a></h1>
+<h1>Hi, I'm T'Kai! <br/><a href="https://github.com/joshmadakor1">IT Manager</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
