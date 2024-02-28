@@ -7,7 +7,7 @@
   - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [OpenVAS Vulnerability Management](https://github.com/joshmadakor1/Sentinel-Lab)
   
-<h2>📺Certifications & Certificates  </h2>
+<h2>📄Certifications & Certificates  </h2>
 
 - [Comptia A+](https://www.credly.com/badges/a8220ec5-a801-45d8-afaf-478e6ec609ed/linked_in_profile)
 - [Comptia Security+](https://www.credly.com/badges/37be845e-8826-4faa-9644-608c81e5dc94/linked_in_profile)
