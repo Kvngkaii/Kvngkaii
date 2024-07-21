@@ -4,7 +4,7 @@
 
 
   - [Azure Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Active Directory](https://github.com/Kvngkaii/Active-Directory-Lab/blob/main/README.md) 
   - [OpenVAS Vulnerability Management](https://github.com/joshmadakor1/Sentinel-Lab)
   
 <h2>📄Certifications & Certificates  </h2>
