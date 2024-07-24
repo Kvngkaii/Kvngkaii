@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Azure Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Sentinel SIEM]
   - [Active Directory](https://github.com/Kvngkaii/Active-Directory-Lab/blob/main/README.md) 
-  - [OpenVAS Vulnerability Management](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [OpenVAS Vulnerability Management]
   
 <h2>📄Certifications & Certificates  </h2>
 
