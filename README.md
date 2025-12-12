@@ -42,9 +42,13 @@ I’m an IT Manager with 5+ years of hands-on experience in enterprise IT enviro
 ---
 
 ## 📄 Certifications
-- **CompTIA A+**  
-- **CompTIA Security+**  
+- **CompTIA A+**
+- **CompTIA Net+**
+- **CompTIA Security+**
+- **Comptia CYSA+ (In Progress)**
 - **Google IT Support Professional Certificate**
+- **Linux Foundations**
+- **ITIL Foundations V4**
 
 ---
 
