@@ -1,40 +1,53 @@
-<h1>Hi, I'm T'Kai! <br/><a href="https://github.com/joshmadakor1">IT Manager</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+# Hi, I’m T’Kai Savage  
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+**IT Manager | Security Analyst | DFIR & Network Security**
 
+I’m an IT Manager with 5+ years of hands-on experience in enterprise IT environments, currently transitioning into cybersecurity. My focus areas include digital forensics, incident response, network security, and vulnerability analysis. I build practical, documented security projects that mirror real-world enterprise scenarios.
 
-  - [Azure Sentinel SIEM]
-  - [Active Directory](https://github.com/Kvngkaii/Active-Directory-Lab/blob/main/README.md) 
-  - [OpenVAS Vulnerability Management]
-  
-<h2>📄Certifications & Certificates  </h2>
+---
 
-- [Comptia A+](https://www.credly.com/badges/a8220ec5-a801-45d8-afaf-478e6ec609ed/linked_in_profile)
-- [Comptia Security+](https://www.credly.com/badges/37be845e-8826-4faa-9644-608c81e5dc94/linked_in_profile)
-- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/PB2AN5VKQXR5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
+## 👨‍💻 Featured Cybersecurity Projects
 
+### 🔐 Insider Threat Digital Forensics Investigation (Autopsy)
+- Conducted a simulated DFIR investigation involving investigation planning, forensic evidence handling, and executive reporting  
+- Recovered deleted proprietary files and analyzed user activity artifacts  
+- Correlated file system evidence with browser activity to assess insider threat indicators  
 
-<h2> 🤳 Connect with me:</h2>
+➡️ **Skills:** DFIR, Incident Response, Evidence Handling, Autopsy  
+➡️ **Tools:** Autopsy  
+➡️ **Link:** *(add your repo link here)*
 
+---
 
-[<img align="left" alt="tkai savage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🌐 Network Mapping & Traffic Analysis (Nmap & Wireshark)
+- Performed network discovery and asset mapping using Nmap  
+- Identified unsupported operating systems and exposed services  
+- Analyzed packet captures to detect cleartext credentials and insecure protocols  
+- Developed remediation recommendations aligned with industry best practices  
 
+➡️ **Skills:** Network Security, Traffic Analysis, Vulnerability Assessment  
+➡️ **Tools:** Nmap, Wireshark  
+➡️ **Link:** *(add your repo link here)*
 
+---
 
+### 🖥️ Active Directory Lab
+- Deployed and configured an Active Directory environment  
+- Managed users, groups, and organizational units  
+- Applied security policies and access controls  
 
-[linkedin]: [https://www.linkedin.com/in/t%E2%80%99kai-savage-54b26417a]
+➡️ **Skills:** Identity & Access Management, Windows Server  
+➡️ **Link:** https://github.com/Kvngkaii/Active-Directory-Lab
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📄 Certifications
+- **CompTIA A+**  
+- **CompTIA Security+**  
+- **Google IT Support Professional Certificate**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤳 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/t%E2%80%99kai-savage-54b26417a
+
