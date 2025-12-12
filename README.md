@@ -15,7 +15,7 @@ I’m an IT Manager with 5+ years of hands-on experience in enterprise IT enviro
 
 ➡️ **Skills:** DFIR, Incident Response, Evidence Handling, Autopsy  
 ➡️ **Tools:** Autopsy  
-➡️ **Link:** *(add your repo link here)*
+➡️ **Link:** *(https://github.com/Kvngkaii/Insider-Threat-DFIR-Autopsy)*
 
 ---
 
@@ -27,7 +27,7 @@ I’m an IT Manager with 5+ years of hands-on experience in enterprise IT enviro
 
 ➡️ **Skills:** Network Security, Traffic Analysis, Vulnerability Assessment  
 ➡️ **Tools:** Nmap, Wireshark  
-➡️ **Link:** *(add your repo link here)*
+➡️ **Link:** *((https://github.com/Kvngkaii/network-mapping-and-traffic-analysis))*
 
 ---
 
